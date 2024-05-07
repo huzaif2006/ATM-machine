@@ -1,9 +1,10 @@
 {
-  "name": "atm",
+  "name": "huz2006-atm",
   "version": "1.0.0",
   "description": "this is simple cli based ATM ",
   "main": "index.js",
   "type": "module",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
