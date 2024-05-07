@@ -1,0 +1,1 @@
+# this is CLI based ATM machine created with the help of inquirer and typescript.
