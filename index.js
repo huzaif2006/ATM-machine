@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // ATM Machine Interface with TypeScript and Inquirer
 import inquirer from "inquirer";
 let myBalance = 10000;
