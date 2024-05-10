@@ -6,6 +6,7 @@ import inquirer from "inquirer";
 
 let myBalance = 10000;
 let myPin = 1234;
+console.log("Wellcome to ATM!!!")
 
 let pinAnswer = await inquirer.prompt([
   {
